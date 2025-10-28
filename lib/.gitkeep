@@ -1,0 +1,3 @@
+# This directory should contain mysql-connector-j.jar
+# Download MySQL Connector/J from: https://dev.mysql.com/downloads/connector/j/
+# Place the mysql-connector-j-x.x.xx.jar file in this directory
